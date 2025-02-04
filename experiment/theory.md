@@ -17,3 +17,19 @@ As its name implies, the pin-on-disc wear test involves pressing a pin (or ball)
 Fig. 3: A conventional pin-on-disc device with a schematic showing the pin and disc placement. With the help of an appropriate weight, a rounded pin is pressed up against the disc. A relative motion is made between the disc and the pin, resulting in circumferential wear of the disc.<br><br>
 Normally, a radius-tipped (or flat-ended) pin is forced against the flat disc (with known roughness). Either the pin or the disc will rotate to create a relative motion and a circumferential wear track or path on the disc. A appropriate load is applied to the pin in order to make mechanical contact between the disc and the pin. Typical experimental parameters consist of material pairs, pin load, pin size and shape, and rotating speed. The effect of other aspects such as environment (controlled atmosphere and with lubrication) can also be evaluated using pin-on-disc wear measurement. Friction between the pin and the disc causes material loss (wear) of the softer material. When comparing two materials, the pin material is often taken as the harder material. <br><br>
 The goal of this experiment is to investigate the wear mode; we will use two material systems: metal-metal and metal-ceramic. When considering a metal-metal system, the pin and disc are both metals, however when considering a metal-ceramic system, the pin is ceramic and the disc is metal. The other factors, such as load on the pin, rotational speed, and test time, are kept constant in order to comprehend the wear mode for two different systems. The wear mode can be studied using microscopic analysis using optical microscopy or scanning electron microscopy of the worn-out surface of the disc.<br><br>
+<b>Observation of worn surface</b><br><br>
+<image src=images/image.png><br><br>
+<image src=images/imagecopy.png><br><br>
+<image src=images/image4.png><br>
+Scanning electron micrographs of worn surface<br><br>
+<b>Observation of worn surface</b>
+<br>
+<image src=images/image7.png><br>
+<br><b> CONCLUSIONS</b><br><br>
+By the end of this experiment students should be able to :
+
+1. Understand the importance of wear
+
+2. perform wear test
+
+3. distinguish between abrasive and adhesive wear

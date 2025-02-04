@@ -290,6 +290,8 @@ document.getElementById("moveButton7").addEventListener("click", function() {
     }, 1000); // 5000 milliseconds = 5 seconds
   });
 
-
+  document.getElementById('refreshButton').addEventListener('click', function() {
+    window.location.href = window.location.href; // Refresh the current page
+  });
 
 
