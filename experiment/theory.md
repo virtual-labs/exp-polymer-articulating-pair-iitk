@@ -28,8 +28,8 @@ Scanning electron micrographs of worn surface<br><br>
 <br><b> CONCLUSIONS</b><br><br>
 By the end of this experiment students should be able to :
 
-1. Understand the importance of wear
+1. Understood the importance of wear
 
-2. perform wear test
+2. Performed wear test
 
-3. distinguish between abrasive and adhesive wear
+3. Identified abrasive and adhesive wear
