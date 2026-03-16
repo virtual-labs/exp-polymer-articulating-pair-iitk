@@ -1,0 +1,15 @@
+
+/home/runner/work/exp-polymer-articulating-pair-iitk/exp-polymer-articulating-pair-iitk/experiment/simulation/js/main.js
+   69:7   warning  'targetObject' is assigned a value but never used      no-unused-vars
+   70:7   warning  'targetObject3' is assigned a value but never used     no-unused-vars
+   71:7   warning  'targetObject5' is assigned a value but never used     no-unused-vars
+   72:7   warning  'targetObject6' is assigned a value but never used     no-unused-vars
+  273:28  warning  'window.location.href' is assigned to itself           no-self-assign
+  277:5   warning  'flag1' is assigned a value but never used             no-unused-vars
+  278:5   warning  'flag2' is assigned a value but never used             no-unused-vars
+  280:10  warning  'showMessage' is defined but never used                no-unused-vars
+  284:7   warning  'learningOutcomes' is assigned a value but never used  no-unused-vars
+  324:12  warning  'displayObjectives' is defined but never used          no-unused-vars
+
+✖ 10 problems (0 errors, 10 warnings)
+
